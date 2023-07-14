@@ -1,6 +1,6 @@
-pip install streamlit 
-pip install pandas 
-pip install flask
-pip install plotly.express 
-pip install seaborn 
-pip install matplotlib.pyplot 
+ streamlit 
+pandas 
+ install flask
+plotly.express 
+ seaborn 
+ matplotlib.pyplot 
