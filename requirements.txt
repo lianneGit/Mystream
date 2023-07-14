@@ -3,4 +3,4 @@ pandas
 flask
 plotly.express
 seaborn 
-matplotlib.pyplot
+matplotlib
