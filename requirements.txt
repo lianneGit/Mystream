@@ -1,7 +1,6 @@
-pandas
+streamlit 
+pandas 
 flask
-streamlit
-plotly
 plotly.express
-seaborn
-matplolib
+seaborn 
+matplotlib.pyplot
