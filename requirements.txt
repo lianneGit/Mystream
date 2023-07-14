@@ -3,3 +3,5 @@ flask
 streamlit
 plotly
 plotly.express
+seaborn
+matplolib
